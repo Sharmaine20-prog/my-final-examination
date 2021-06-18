@@ -1,0 +1,2 @@
+Like it was said Git is a distributed version control system, for example subversion that is centralized. What does it mean by subversion? The code repository (repo) lives on a server and people need special permissions (commit rights) to be able to add code to the repo. Everything put/lives in one place.
+Then Github is a Git repository hosting service, but it adds many of its own features, Github provide a well-based graphical interface.it also provide access control and several collaboration features such as wikis and basic task management tools for every project.
